@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606797207926",
+    "project_id": "fir-memo-4ea02",
+    "storage_bucket": "fir-memo-4ea02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606797207926:android:c4102f3e31eb3274d18257",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606797207926-mjaa2cbuobtviqg153donib3utqnteio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWzlCIPfaomp0gDJbn8xxbQmb-bCn99k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606797207926-mjaa2cbuobtviqg153donib3utqnteio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
